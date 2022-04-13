@@ -26,7 +26,7 @@ Challenge yourself with the main concepts of this programing paradigm:
 - Abstraction: only exposing high level public methods for accessing an object
 - Polymorphism: many methods can do the same task
 ## UML Class Diagram
-To better image quality, the file ./UML/digitalBank.drawio may be opened on (https://app.diagrams.net/).
+To better image quality, the file ./UML/digitalBank.drawio may be opened on https://app.diagrams.net/.
 <div>
     <img src="./.img/digitalBank.drawio.png">
 </div>
