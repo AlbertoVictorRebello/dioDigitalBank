@@ -30,6 +30,7 @@ To better image quality, the file ./UML/digitalBank.drawio may be opened on http
 <div>
     <img src="./.img/digitalBank.drawio.png">
 </div>
+
 ## Usage Instructions
 - Create a blank Java Project named as com.dio.digitalBank.
 - Copy and paste this repository's content into your project folder.
