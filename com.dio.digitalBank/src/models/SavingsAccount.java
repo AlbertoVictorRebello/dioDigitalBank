@@ -6,7 +6,7 @@ public class SavingsAccount extends Account{
 
     public SavingsAccount(Client clientOwner) {
         super(clientOwner);
-        type = AccountTypesEnum.CURRENT_ACCOUNT;
+        type = AccountTypesEnum.SAVINGS_ACCOUNT;
     }
 
     @Override
